@@ -1,0 +1,15 @@
+D:\NTierTodoApp\Business\bin\Debug\net9.0\Business.deps.json
+D:\NTierTodoApp\Business\bin\Debug\net9.0\Business.dll
+D:\NTierTodoApp\Business\bin\Debug\net9.0\Business.pdb
+D:\NTierTodoApp\Business\bin\Debug\net9.0\DataAccess.dll
+D:\NTierTodoApp\Business\bin\Debug\net9.0\DataAccess.pdb
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.dll
+D:\NTierTodoApp\Business\obj\Debug\net9.0\refint\Business.dll
+D:\NTierTodoApp\Business\obj\Debug\net9.0\Business.pdb
+D:\NTierTodoApp\Business\obj\Debug\net9.0\ref\Business.dll
